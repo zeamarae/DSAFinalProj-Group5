@@ -1,1 +1,1 @@
-# DSAFinalProj-Group5
+Hierarchical Agent Management System with Commission Tracking provides functionalities for adding, removing, and managing employees under a hierarchical structure. Each employee, including the manager, has specific roles, subordinates, and commission calculations based on the number of direct subordinates.
